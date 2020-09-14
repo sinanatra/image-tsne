@@ -12,3 +12,10 @@ Start
 
 Run the `tsne.ipynb` notebook to start 
 
+
+<p align="center">
+        <img alt="t-SNE" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/grid-tSNE.jpg" />
+</p>
+
+
+
