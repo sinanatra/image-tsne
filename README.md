@@ -1,5 +1,3 @@
-This is a modified version of ml4a’s notebook `https://github.com/ml4a/ml4a-guides/blob/master/notebooks/image-tsne.ipynb` that can parse a custom folder with images to generate a t-SNE
-
 Requisites
 ----------
 
