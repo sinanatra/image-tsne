@@ -13,11 +13,6 @@ Requirements
 
 Install PIP requirements with `pip install -r requirements.txt`.
 
-
-Add a folder of images, in the assets folder, and then edit the `folder` path: `folder = './assets/CUSTOM_DATASET/'` inside the notebooks.
-
-Insert a csv file inside the `./assets/` folder and link it in the specific notebooks when working with text.
-
 Notebooks
 -----
 - `save_wikidata_images.ipynb` creates a folder of images from a Wikidata query
