@@ -20,7 +20,8 @@ Insert a csv file inside the `./assets/` folder and link it in the specific note
 
 Notebooks
 -----
-
+- `save_wikidata_images.ipynb` creates a folder of images from a Wikidata query
+- `image_tsne.ipynb` creates a tsne map from a folder of images based on visual similiarities
 - `image_tsne.ipynb` creates a tsne map from a folder of images based on visual similiarities
 - `image_umap.ipynb` creates a umap map from a folder of images based on visual similiarities
 - `metadata_umap.ipynb` creates a umap map from a folder of images based on values specified in a custom csv file.
