@@ -1,3 +1,3 @@
 data/*
-assets/*
+# assets/*
 .ipynb_checkpoints
