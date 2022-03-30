@@ -1,9 +1,11 @@
-numpy==1.17.2
-rasterfairy_py3==1.0.5
-matplotlib==3.1.1
-opencv_python==4.2.0.32
-scikit_image==0.15.0
-Pillow==7.2.0
-rasterfairy==1.0.6
-scikit_learn==0.23.2
-skimage==0.0
+Pillow == 9.0.1
+altair == 4.2.0
+matplotlib == 3.5.1
+numpy == 1.20.3
+opencv_python == 4.5.3.56
+pandas == 1.4.1
+rasterfairy_py3 == 1.0.5
+scikit_image == 0.18.3
+sklearn == 0.0
+tqdm == 4.62.3
+umap_learn == 0.5.2
