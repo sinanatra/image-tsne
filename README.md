@@ -4,7 +4,7 @@
 This repo contains a series of notebook to arrange cultural artifacts and explore patters in metadata.
 
 <p align="center">
-        <img alt="t-SNE" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/test_tSNE.png" />
+        <img alt="t-SNE" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/data/test_UMAP.png" />
 </p>
 
 
