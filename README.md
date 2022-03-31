@@ -2,9 +2,10 @@
 # Umap / Tsne
 
 This repo contains a series of notebook to arrange cultural artifacts and explore patters in metadata.
+To make it accessible we only use open source material from Wikidata as an example.
 
 <p align="center">
-        <img alt="t-SNE" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/data/test_UMAP.png" />
+        <img alt="UMAP" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/data/test_UMAP.png" />
 </p>
 
 
@@ -17,10 +18,13 @@ Notebooks
 -----
 - `save_wikidata_images.ipynb` creates a folder of images from a Wikidata query
 - `image_tsne.ipynb` creates a tsne map from a folder of images based on visual similiarities
-- `image_tsne.ipynb` creates a tsne map from a folder of images based on visual similiarities
 - `image_umap.ipynb` creates a umap map from a folder of images based on visual similiarities
 - `metadata_umap.ipynb` creates a umap map from a folder of images based on values specified in a custom csv file.
 - `image_shortest_path.ipynb` calculates the shortest path from an image to other.
 
+--- 
 
+<p align="center">
+        <img alt="t-SNE" width="100%" height="" src="https://raw.githubusercontent.com/sinanatra/tsne/master/data/grid-tSNE.jpg" />
+</p>
 
